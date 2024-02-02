@@ -14,14 +14,21 @@ I'm **Sreshta Reddy**, a Computer Science enthusiast with a knack for software e
 - **Bachelor of Technology in Computer Science** - *Bangalore Institute of Technology*                                              (Aug 2017– Aug 2021)
 
 ## 💼 **Experience**
-**Graduate Teaching Assistant** - *Luddy School of Informatics, Indiana University*
-- Guiding students in Software Engineering and Object-Oriented Software Methods, fostering a collaborative learning environment.
-**Associate Consultant** - *Oracle Financial Services Software*
-- Crafted innovative solutions to meet client needs, specializing in database management and software development.
-**Web Developer Intern** - *Hermitcrabs*
-- Enhanced user experiences through frontend development and UI/UX design, contributing to improved website performance.
-**Software Developer Intern** - *Campus Build Technologies Pvt Ltd*
-- Innovated software solutions, leveraging Java-based OOP and advanced AI techniques to streamline development processes.
+#### Graduate Teaching Assistant
+- *Luddy School of Informatics, Indiana University*
+  - Guiding students in Software Engineering and Object-Oriented Software Methods, fostering a collaborative learning environment.
+
+#### Associate Consultant
+- *Oracle Financial Services Software*
+  - Crafted innovative solutions to meet client needs, specializing in database management and software development.
+
+#### Web Developer Intern
+- *Hermitcrabs*
+  - Enhanced user experiences through frontend development and UI/UX design, contributing to improved website performance.
+
+#### Software Developer Intern
+- *Campus Build Technologies Pvt Ltd*
+  - Innovated software solutions, leveraging Java-based OOP and advanced AI techniques to streamline development processes.
 
 ## 🚀 **Skills**
 - **Languages:** Java, Python, JavaScript, SQL.

@@ -9,6 +9,16 @@ I'm **Sreshta Reddy**, a Computer Science enthusiast with a knack for software e
 💬 **Ask me about** software development, database management, or anything related 
 
 ### **Here's a brief snapshot of what you'll find:**
+## 🎓 **Education**
+- **Masters in Computer Science**
+  - *Indiana University Bloomington*
+  - CGPA: 3.82
+  - Aug 2022– Present
+
+- **Bachelor of Technology in Computer Science**
+  - *Bangalore Institute of Technology*
+  - CGPA: 3.65
+  - Aug 2017– Aug 2021
 
 ## 💼 **Experience**
 - **Teaching Assistant:** Guiding students at Indiana University in Software Engineering and Object-Oriented Software Methods.

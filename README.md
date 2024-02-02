@@ -36,7 +36,6 @@ I am a dedicated professional with a year of experience at Oracle Financial Serv
 - **Facial Expression to Emoji:** Real-time emotion recognition desktop app.
 
 👯 **I’m looking to collaborate on projects** related to software engineering, machine learning, and cloud computing.
-💬 **Ask me about** software development, database management, or anything related 
 
 ## 📫 **Let's Connect!**
 Feel free to reach out on [LinkedIn](linkedin.com/in/sreshtareddy) or via [email](mailto:sreshtareddy001@gmail.com) for collaboration or a friendly chat!

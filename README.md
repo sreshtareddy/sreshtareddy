@@ -29,4 +29,4 @@ I'm **Sreshta Reddy**, a Computer Science enthusiast with a knack for software e
 - **Facial Expression to Emoji:** Real-time emotion recognition desktop app.
 
 ## 📫 **Let's Connect!**
-Feel free to reach out on [LinkedIn](linkedin.com/in/sreshtareddy) or via email ([sreshtareddy001@gmail.com](mailto:sreshtareddy001@gmail.com)) for collaboration or a friendly chat!
+Feel free to reach out on [LinkedIn](linkedin.com/in/sreshtareddy) or via [email](mailto:sreshtareddy001@gmail.com) for collaboration or a friendly chat!

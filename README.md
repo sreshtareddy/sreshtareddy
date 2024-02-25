@@ -38,4 +38,4 @@ I am a dedicated professional with a year of experience at Oracle Financial Serv
 👯 **I’m looking to collaborate on projects** related to software engineering, machine learning, and cloud computing.
 
 ## 📫 **Let's Connect!**
-Feel free to reach out on [LinkedIn]([linkedin.com/in/sreshtareddy](https://www.linkedin.com/in/sreshta-reddy-424467197/)) or via [email](mailto:sreshtareddy001@gmail.com) for collaboration or a friendly chat!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sreshta-reddy-424467197/) or via [email](mailto:sreshtareddy001@gmail.com) for collaboration or a friendly chat!

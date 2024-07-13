@@ -6,7 +6,7 @@ I am a dedicated professional with a year of experience at Oracle Financial Serv
 
 ### **Here's a brief snapshot of what you'll find:**
 ## 🎓 **Education**
-- **Masters in Computer Science** - *Indiana University Bloomington*                                                                (Aug 2022– Present)
+- **Masters in Computer Science** - *Indiana University Bloomington*                                                                (Aug 2022– May 2024)
 - **Bachelor of Technology in Computer Science** - *Bangalore Institute of Technology*                                              (Aug 2017– Aug 2021)
 
 ## 💼 **Experience**
